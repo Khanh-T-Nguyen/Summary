@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-My name is Khanh. I'm IT student at WGU
+My name is Khanh. I'm IT student at Western Governors University.
 
