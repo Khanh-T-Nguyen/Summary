@@ -1,4 +1,4 @@
-<h1>Hi, I'm Khanh, an <a href="https://www.linkedin.com/in/khanh-nguyen-59a15a246/?isSelfProfile=true">IT Professional</a>!</h1>
+<h1>Hi, I'm Khanh, an <a href="https://www.linkedin.com/in/khanh-nguyen-59a15a246/?isSelfProfile=true" target="_blank">IT Professional</a>!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
